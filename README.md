@@ -9,6 +9,9 @@ When you login a user, in return you get a Token. You'll want to return that tok
 
 ## Getting Started
 
+First lets fork and clone this project so its yours.<br>
+After you have it downloaded, you can run these commands to get it started.
+
 ```sh
 yarn install
 yarn server
@@ -68,3 +71,7 @@ Photos used for this api for the seeded data were provided by [unsplash.com](htt
 
 ## License
 Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/LICENSE).
+
+## Say Thanks
+If you use this Api feel free to let me know or if you have any feed back on things I can change or do better thats always appreciated thank you. You can email me [contact@duranirving.com](contact@duranirving.com) or drop a message in my website [duranirving.com](duranirving.com)
+

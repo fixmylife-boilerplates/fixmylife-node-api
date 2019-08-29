@@ -17,8 +17,8 @@ yarn install
 yarn server
 ```
 
-<p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true' width='100%' alt='yarn server'>
+<p align="left">
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true' alt='yarn server'>
   </p
   
 Then open [http://localhost:4000/](http://localhost:4000/) to see that your api is running.<br>

@@ -63,7 +63,8 @@ You can change the users seeded data to fit your projects needs you can get crea
 You can change the posts seeded data to fit your projects needs you can get creative and add as posts just remember to add a user id to user_id.
 [002-posts.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) 
 
-
+## Acknowledgements
+Photos used for this api for the seeded data were provided by [unsplash.com](https://unsplash.com/) 
 
 ## License
 Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/LICENSE).

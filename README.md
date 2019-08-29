@@ -1,4 +1,4 @@
-# fixmylife-node-api
+# Fixmylife-Node-Api
 boilerplate for node express backend to make my life simpler
 These are dependences and set up I personally use for my backend set ups
 I will include a users and post migration with seeds.
@@ -20,7 +20,11 @@ yarn install
 yarn server
 ```
 
-Then open [http://localhost:4000/](http://localhost:4000/) to see that your api is running.
+Then open [http://localhost:4000/](http://localhost:4000/) to see that your api is running.<br>
 When you know your app is running you are ready to make axios calls!
+
+<p align="center">
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true'>
+  </p
 
 

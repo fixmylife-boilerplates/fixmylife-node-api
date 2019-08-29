@@ -18,7 +18,6 @@ yarn server
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true' width='400' alt='yarn server'>
   </p
   
-  
 Then open [http://localhost:4000/](http://localhost:4000/) to see that your api is running.<br>
 When you know your app is running you are ready to make axios calls!
 
@@ -44,7 +43,7 @@ If you are planning on using this Api for a project we should start by giving it
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true'>
 </p
 
-### Users Seeded data
+### **Users Seeded data**
 You can change the users seeded data to fit your projects needs you can get creative and add as many users as you need to get your project started.
 [001-users.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js) 
 
@@ -59,7 +58,6 @@ You can change the posts seeded data to fit your projects needs you can get crea
 <p align="center">
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/postsseeds.PNG?raw=true'>
   </p
-
 
 ## License
 

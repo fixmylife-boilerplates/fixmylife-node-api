@@ -1,15 +1,8 @@
 # Fixmylife-Node-Api
-boilerplate for node express backend to make my life simpler
-These are dependences and set up I personally use for my backend set ups
-I will include a users and post migration with seeds.
+boilerplate for node express backend to make my life simpler<br>
+This is a set up I personally use when building a backend.
 It will also include the routers, models and middleware.
 I'll also make a how to and what needs to be changed to customize for your project.
-
-this boilerplate uses {bcryptjs, cors, dotenv, express, helmet, jsonwebtoken, knex, sqlite}
-nodemon is on there as a dev dependency and postgres is installed for productions.
-
-once the folder is downloaded run yarn install in the root of your folder and you can use yarn server to start up the server
-BoilerPlate for Node Express backend
 
 - [Api Doc](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest) - Documentation on all the endpoints this api comes with.
 
@@ -32,7 +25,7 @@ When you know your app is running you are ready to make axios calls!
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/localhost4000.PNG?raw=true' width='600' alt='localhost4000'>
   </p
   
-  ## Dependencies Included
+## Dependencies Included
 - [express](https://www.npmjs.com/package/express)
 - [cors](https://www.npmjs.com/package/cors) 
 - [helmet](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest)
@@ -43,3 +36,25 @@ When you know your app is running you are ready to make axios calls!
 - [sqlite](https://www.npmjs.com/package/sqlite)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 
+## What to do next
+### Change the api info
+If you are planning on using this Api for a project we should start by giving it a name. Go to your [package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**
+
+<p align="center">
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true' width='400' alt='yarn server'>
+  </p
+  
+### Change the api info
+Next you can change the seeded data to fit your projects needs 
+### Users Seeded data
+[package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**
+
+<p align="center">
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true' width='400' alt='yarn server'>
+  </p
+
+
+
+## License
+
+Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).

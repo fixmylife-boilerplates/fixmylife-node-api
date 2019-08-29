@@ -7,7 +7,7 @@ When you login a user, in return you get a Token. You'll want to return that tok
 
 - [Api Doc](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest) - Documentation on all the endpoints this api comes with.
 
-# Getting Started
+## Getting Started
 
 ```sh
 yarn install
@@ -26,7 +26,7 @@ When you know your app is running you are ready to make axios calls!
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/localhost4000.PNG?raw=true'>
   </p
   
-# Dependencies Included
+## Dependencies Included
 - [express](https://www.npmjs.com/package/express)
 - [cors](https://www.npmjs.com/package/cors) 
 - [helmet](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest)
@@ -37,7 +37,6 @@ When you know your app is running you are ready to make axios calls!
 - [sqlite](https://www.npmjs.com/package/sqlite)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 
-# What to do next
 ## Change the api info
 If you are planning on using this Api for a project we should start by giving it a name. Go to your [package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**.
 

@@ -63,6 +63,6 @@ You can change the posts seeded data to fit your projects needs you can get crea
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/postsseeds.PNG?raw=true'>
   </p
 
-## License
+# License
 
 Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/LICENSE).

@@ -50,7 +50,7 @@ You can change the users seeded data to fit your projects needs you can get crea
 [001-users.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js) 
 
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/usersseed.PNG?raw=true'>
   </p
 
 ### Posts Seeded data

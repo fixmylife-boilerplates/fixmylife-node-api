@@ -1,8 +1,9 @@
 # Fixmylife-Node-Api
 boilerplate for node express backend to make my life simpler<br>
-This is a set up I personally use when building a backend.
-It will also include the routers, models and middleware.
-I'll also make a how to and what needs to be changed to customize for your project.
+This is a set up I personally use when building a backend.<br>
+
+### Using the Api
+When you login a user, in return you get a Token. You'll want to return that token in your headers when making a axios call for **put** or **delete**.
 
 - [Api Doc](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest) - Documentation on all the endpoints this api comes with.
 
@@ -38,23 +39,29 @@ When you know your app is running you are ready to make axios calls!
 
 ## What to do next
 ### Change the api info
-If you are planning on using this Api for a project we should start by giving it a name. Go to your [package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**
+If you are planning on using this Api for a project we should start by giving it a name. Go to your [package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**.
 
 <p align="center">
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true' width='400' alt='yarn server'>
-  </p
-  
-### Change the api info
-Next you can change the seeded data to fit your projects needs 
+</p
+
 ### Users Seeded data
-[package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**
+You can change the users seeded data to fit your projects needs you can get creative and add as many users as you need to get your project started.
+[001-users.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js) 
 
 <p align="center">
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true' width='400' alt='yarn server'>
   </p
 
+### Posts Seeded data
+You can change the posts seeded data to fit your projects needs you can get creative and add as posts just remember to add a user id to user_id.
+[002-posts.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) 
+
+<p align="center">
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/postsseeds.PNG?raw=true' width='400' alt='yarn server'>
+  </p
 
 
 ## License
 
-Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).
+Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/LICENSE).

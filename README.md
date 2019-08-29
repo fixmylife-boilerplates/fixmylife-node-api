@@ -41,7 +41,7 @@ When you know your app is running you are ready to make axios calls!
 
 ## Change the api info
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true' width="100%">
 </p
   
 If you are planning on using this Api for a project we should start by giving it a name. Go to your [package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**.

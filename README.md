@@ -24,7 +24,7 @@ yarn server
 Then open [http://localhost:4000/](http://localhost:4000/) to see that your api is running.<br>
 When you know your app is running you are ready to make axios calls!
 
-<p align="center">
+<p align="left">
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/localhost4000.PNG?raw=true'>
   </p
   
@@ -65,6 +65,14 @@ You can change the users seeded data to fit your projects needs you can get crea
   
 You can change the posts seeded data to fit your projects needs you can get creative and add as posts just remember to add a user id to user_id.
 [002-posts.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) 
+
+## Important! If you do change the seeds
+you will need to run these command to make the changes
+```sh
+npx knex migrate:rollback   
+npx knex migrate:latest  
+npx knex seed:run 
+```
 
 ## Acknowledgements
 Photos used for this api for the seeded data were provided by [unsplash.com](https://unsplash.com/) 

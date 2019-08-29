@@ -53,9 +53,13 @@ If you are planning on using this Api for a project we should start by giving it
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/usersseed.PNG?raw=true'>
   </p
   
-You can change the [users](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js)  seeded data to fit your projects needs you can get creative and add as many users as you need to get your project started.
-
-
+You can change the [**users**](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js)  seeded data to fit your projects needs you can get creative and add as many users as you need to get your project started.
+**Where to find 001-users.js**
+```
+database
+└── seeds
+    └──**001-users.js**
+```
 
 
 ## Posts Seeded data
@@ -63,8 +67,13 @@ You can change the [users](https://github.com/fixmylife-boilerplates/fixmylife-n
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/postsseeds.PNG?raw=true'>
   </p
   
-You can change the [posts](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) seeded data to fit your projects needs you can get creative and add as posts just remember to add a user id to user_id.
- 
+You can change the [**posts**](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) seeded data to fit your projects needs you can get creative and add as posts just remember to add a user id to user_id.
+ **Where to find 002-posts.js**
+```
+database
+└── seeds
+    └──**002-posts.js**
+```
 
 ## Important! If you do change the seeds
 You will need to run these command to make the changes.

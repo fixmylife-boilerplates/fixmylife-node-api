@@ -23,7 +23,7 @@ Then open [http://localhost:4000/](http://localhost:4000/) to see that your api 
 When you know your app is running you are ready to make axios calls!
 
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/localhost4000.PNG?raw=true' width='600' alt='localhost4000'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/localhost4000.PNG?raw=true'>
   </p
   
 ## Dependencies Included
@@ -42,7 +42,7 @@ When you know your app is running you are ready to make axios calls!
 If you are planning on using this Api for a project we should start by giving it a name. Go to your [package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**.
 
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true' width='400' alt='yarn server'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true'>
 </p
 
 ### Users Seeded data
@@ -50,7 +50,7 @@ You can change the users seeded data to fit your projects needs you can get crea
 [001-users.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js) 
 
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true' width='400' alt='yarn server'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true'>
   </p
 
 ### Posts Seeded data
@@ -58,7 +58,7 @@ You can change the posts seeded data to fit your projects needs you can get crea
 [002-posts.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) 
 
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/postsseeds.PNG?raw=true' width='400' alt='yarn server'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/postsseeds.PNG?raw=true'>
   </p
 
 

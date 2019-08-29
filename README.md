@@ -20,11 +20,16 @@ yarn install
 yarn server
 ```
 
+<p align="center">
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true' width='600' alt='yarn server'>
+  </p
+  
+  
 Then open [http://localhost:4000/](http://localhost:4000/) to see that your api is running.<br>
 When you know your app is running you are ready to make axios calls!
 
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/localhost4000.PNG?raw=true' width='600' alt='localhost4000'>
   </p
 
 

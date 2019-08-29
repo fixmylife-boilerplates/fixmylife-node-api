@@ -1,4 +1,4 @@
-# create-node-api
+# fixmylife-node-api
 boilerplate for node express backend to make my life simpler
 These are dependences and set up I personally use for my backend set ups
 I will include a users and post migration with seeds.

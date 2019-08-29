@@ -3,7 +3,7 @@ boilerplate for node express backend to make my life simpler<br>
 This is a set up I personally use when building a backend.<br>
 
 ## Using the Api
-When you login a user, in return you get a Token. You'll want to return that token in your headers when making a axios call for **put** or **delete**.
+When you login a user, in return you get a Token. You'll want to return that token in your headers when making a axios call for **post**, **put** or **delete**.
 
 - [Api Doc](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest) - Documentation on all the endpoints this api comes with.
 
@@ -67,7 +67,7 @@ You can change the posts seeded data to fit your projects needs you can get crea
 [002-posts.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) 
 
 ## Important! If you do change the seeds
-you will need to run these command to make the changes
+You will need to run these command to make the changes.
 ```sh
 npx knex migrate:rollback   
 npx knex migrate:latest  
@@ -75,11 +75,11 @@ npx knex seed:run
 ```
 
 ## Acknowledgements
-Photos used for this api for the seeded data were provided by [unsplash.com](https://unsplash.com/) 
+Photos used for this api for the seeded data were provided by [unsplash.com](https://unsplash.com/).
 
 ## License
 Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/LICENSE).
 
 ## Say Thanks
-If you use this Api feel free to let me know or if you have any feed back on things I can change or do better thats always appreciated thank you. You can email me [contact@duranirving.com](mailto:contact@duranirving.com) or drop a message in my website [duranirving.com](https://www.duranirving.com)
+If you use this Api feel free to let me know or if you have any feed back on things I can change or do better thats always appreciated thank you. You can email me [contact@duranirving.com](mailto:contact@duranirving.com) or drop a message in my website [duranirving.com](https://www.duranirving.com).
 

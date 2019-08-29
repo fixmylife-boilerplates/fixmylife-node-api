@@ -11,7 +11,7 @@ nodemon is on there as a dev dependency and postgres is installed for production
 once the folder is downloaded run yarn install in the root of your folder and you can use yarn server to start up the server
 BoilerPlate for Node Express backend
 
-- [Api Doc](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest) - Docuumentation on all the endpoints this api comes with.
+- [Api Doc](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest) - Documentation on all the endpoints this api comes with.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ yarn server
 ```
 
 <p align="center">
-  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true' width='600' alt='yarn server'>
+  <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarnserver.PNG?raw=true' width='400' alt='yarn server'>
   </p
   
   
@@ -31,5 +31,15 @@ When you know your app is running you are ready to make axios calls!
 <p align="center">
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/localhost4000.PNG?raw=true' width='600' alt='localhost4000'>
   </p
-
+  
+  ## Dependencies Included
+- [express](https://www.npmjs.com/package/express)
+- [cors](https://www.npmjs.com/package/cors) 
+- [helmet](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest)
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs) 
+- [dotenv](https://www.npmjs.com/package/dotenv) 
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [knex](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest)
+- [sqlite](https://www.npmjs.com/package/sqlite)
+- [nodemon](https://www.npmjs.com/package/nodemon)
 

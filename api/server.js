@@ -18,6 +18,6 @@ server.use("/api/users", usersRouter);
 server.use("/api/posts", postsRouter);
 
 server.get("/", (req, res) => {
-  res.status(200).json({ api: "Broken U-Lock api running" });
+  res.status(200).json({ api: "Fixmylife node api running" });
 });
 module.exports = server;

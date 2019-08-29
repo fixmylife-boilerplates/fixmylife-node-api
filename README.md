@@ -73,5 +73,5 @@ Photos used for this api for the seeded data were provided by [unsplash.com](htt
 Fixmylife Node Api is free to anyone who would like to use it [licensed as MIT](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/LICENSE).
 
 ## Say Thanks
-If you use this Api feel free to let me know or if you have any feed back on things I can change or do better thats always appreciated thank you. You can email me [contact@duranirving.com](contact@duranirving.com) or drop a message in my website [duranirving.com](duranirving.com)
+If you use this Api feel free to let me know or if you have any feed back on things I can change or do better thats always appreciated thank you. You can email me [contact@duranirving.com](https://contact@duranirving.com) or drop a message in my website [duranirving.com](https://www.duranirving.com)
 

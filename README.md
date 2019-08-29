@@ -53,8 +53,8 @@ If you are planning on using this Api for a project we should start by giving it
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/usersseed.PNG?raw=true'>
   </p
   
-You can change the users seeded data to fit your projects needs you can get creative and add as many users as you need to get your project started.
-[001-users.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js) 
+You can change the [users](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js)  seeded data to fit your projects needs you can get creative and add as many users as you need to get your project started.
+
 
 
 
@@ -63,8 +63,8 @@ You can change the users seeded data to fit your projects needs you can get crea
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/postsseeds.PNG?raw=true'>
   </p
   
-You can change the posts seeded data to fit your projects needs you can get creative and add as posts just remember to add a user id to user_id.
-[002-posts.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) 
+You can change the [posts](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/002-posts.js) seeded data to fit your projects needs you can get creative and add as posts just remember to add a user id to user_id.
+ 
 
 ## Important! If you do change the seeds
 You will need to run these command to make the changes.

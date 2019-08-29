@@ -38,12 +38,12 @@ When you know your app is running you are ready to make axios calls!
 
 ## Change the api info
 If you are planning on using this Api for a project we should start by giving it a name. Go to your [package.json](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/package.json) file and you'll want up update **name**, **description**, **repository** and **author**.
-## React Native
+##  Users Seeded data
 <p align="center">
   <img src='https://github.com/fixmylifedesigns/images/blob/master/fixmylife-node-api/yarninit.PNG?raw=true'>
 </p
 
-## Users Seeded data
+## React Native
 You can change the users seeded data to fit your projects needs you can get creative and add as many users as you need to get your project started.
 [001-users.js](https://github.com/fixmylife-boilerplates/fixmylife-node-api/blob/master/database/seeds/001-users.js) 
 

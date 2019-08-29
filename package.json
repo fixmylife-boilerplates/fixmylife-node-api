@@ -21,7 +21,7 @@
   "version": "1.0.0",
   "description": "Here you can put a detailed description of your api",
   "main": "index.js",
-  "repository": "https://github.com/fixmylife-boilerplates/node-express-app.git",
-  "author": "fixmylifedesigns <ijd.irving@gmail.com>",
+  "repository": "https://github.com/fixmylife-boilerplates/fixmylife-node-api.git",
+  "author": "fixmylifedesigns <contact@duranirving.com>",
   "license": "MIT"
 }

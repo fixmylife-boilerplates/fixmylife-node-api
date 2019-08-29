@@ -77,7 +77,7 @@ database
 
 ## Important! If you do change the seeds
 You will need to run these command to make the changes.
-```sh
+```
 npx knex migrate:rollback   
 npx knex migrate:latest  
 npx knex seed:run 

@@ -31,11 +31,11 @@ When you know your app is running you are ready to make axios calls!
 ## Dependencies Included
 - [express](https://www.npmjs.com/package/express)
 - [cors](https://www.npmjs.com/package/cors) 
-- [helmet](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest)
+- [helmet](https://www.npmjs.com/package/helmet)
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs) 
 - [dotenv](https://www.npmjs.com/package/dotenv) 
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
-- [knex](https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest)
+- [knex](https://www.npmjs.com/package/knex)
 - [sqlite](https://www.npmjs.com/package/sqlite)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 

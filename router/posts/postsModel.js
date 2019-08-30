@@ -15,6 +15,7 @@ function getAllPosts() {
     .select(
       { username: "users.username" },
       "user_id",
+      "users.avatar",
       { post_id: "posts.id" },
       "image",
       "description",
@@ -31,6 +32,7 @@ function findById(id) {
     .select(
       { username: "users.username" },
       "user_id",
+      "users.avatar",
       { post_id: "posts.id" },
       "image",
       "description",
@@ -46,6 +48,7 @@ function getUserPosts(id) {
     .select(
       { username: "users.username" },
       "user_id",
+      "users.avatar",
       { post_id: "posts.id" },
       "image",
       "description",

@@ -18,7 +18,7 @@
     "server": "nodemon index.js"
   },
   "name": "name-of-your-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Here you can put a detailed description of your api",
   "main": "index.js",
   "repository": "https://github.com/fixmylife-boilerplates/fixmylife-node-api.git",
